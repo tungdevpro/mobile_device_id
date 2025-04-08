@@ -54,7 +54,7 @@ class _MyAppState extends State<MyApp> {
           title: const Text('Plugin example app'),
         ),
         body: Center(
-          child: Text('Running on: $_id\n'),
+          child: Text('Device id: $_id\n'),
         ),
       ),
     );
